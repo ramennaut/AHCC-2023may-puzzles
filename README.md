@@ -1,2 +1,2 @@
 # AHCC-2023may-puzzles
-AngelHack Monthly Code Challenge May 2023 (Algorithms: Coding Puzzles)
+This repository was made as a submittion to AngelHack Monthly Code Challenge May 2023 (Algorithms: Coding Puzzles).
